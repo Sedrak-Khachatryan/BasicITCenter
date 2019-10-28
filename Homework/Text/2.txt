@@ -1,0 +1,7 @@
+
+a=15
+a=float(a)
+a=str("a")
+a=bool(a)
+print(a)
+"""cucadrvum e true arjeq@, qani vor amenaverjum a-in dardzrel enq bool type-i  """

@@ -1,0 +1,12 @@
+a=13
+b=90.4
+c="Hello"
+d=b>a
+prit(a)
+print(type(a))
+print(b)
+print(type(b))
+print(c)
+print(type(c))
+print(d)
+print(type(d)

@@ -1,0 +1,9 @@
+a=47
+b=104
+
+if(a>=b):
+	print(a)
+
+if(a<=b):
+	print(b)
+

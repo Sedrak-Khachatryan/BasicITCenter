@@ -1,0 +1,9 @@
+a=10
+b=7
+c=9
+
+if (a+b>=c and a+c>=b and c+b>=a):
+	print("a,b & c-n erankyan koxmer en")
+
+if(a+b<c or a+c<b or c+b<a):
+	print("a,b & c-n erankyan koxmer chen")

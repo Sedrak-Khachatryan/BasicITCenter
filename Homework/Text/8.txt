@@ -1,0 +1,9 @@
+a=8
+if(a==10):
+	print("a-n havasar e 10-i")
+
+if(a>10):
+	print("a-n mec e 10-ic")
+
+if(a<10):
+	print("a-n poqr e 10-ic")

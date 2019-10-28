@@ -1,0 +1,8 @@
+a="17"
+print("a=17")
+a=int(a)
+print(a)
+a=float(a)
+print(a)
+a=bool(a)
+print(a)
